@@ -2,7 +2,7 @@
 
 #Loading Packages
 
-import pandas as pdimport
+import pandas as pd
 import numpy as np      
 
 # For mathematical calculationsimport seaborn as sns               
